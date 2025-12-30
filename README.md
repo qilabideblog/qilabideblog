@@ -1,3 +1,4 @@
+👋 Hi there, I am ...
 
 **Computer users** · MySQL · PostgreSQL · Unix · MsSQL
 
