@@ -1,4 +1,3 @@
-# qilabideblog
 
 **Computer users** · MySQL · PostgreSQL · Unix
 
