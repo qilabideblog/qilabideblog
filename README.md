@@ -2,7 +2,7 @@
 
 **Computer users** · MySQL · PostgreSQL · Unix · MsSQL
 
-Focus on stability, performance, continuous exploration.
+Focus on stability, performance, and continuous exploration.
 
 ---
 
